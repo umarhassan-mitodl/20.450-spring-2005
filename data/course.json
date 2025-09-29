@@ -37,6 +37,7 @@
     "website": "20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005"
   },
   "course_title": "Molecular and Cellular Pathophysiology (BE.450)",
+  "hide_download": true,
   "course_description": "This course focuses on the fundamentals of tissue and organ response to injury from a molecular and cellular perspective. There is a special emphasis on disease states that bridge infection, inflammation, immunity, and cancer. The systems approach to pathophysiology includes lectures, critical evaluation of recent scientific papers, and student projects and presentations.\n\nThis term, we focus on hepatocellular carcinoma (HCC), chronic-active hepatitis, and hepatitis virus infections. In addition to lectures, students work in teams to critically evaluate and present primary scientific papers.\n",
   "department_numbers": [
     "20"
@@ -47,6 +48,7 @@
     "content": "33d7b8f6-1d7f-fc03-9eaf-6522bc47139c",
     "website": "20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

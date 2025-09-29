@@ -29,7 +29,7 @@ Introduction to 20.450 and HCC
 
 Sherlock, G. "Analysis of large-scale gene expression data." *Current Opinion in Immunology* 12, no. 2 (April 2000): 201-5. Review.
 
-{{% resource_link "d0b23187-ae26-43d2-9d79-37d2fb6d5742" "HBV slideset from the CDC" %}}
+[HBV slideset from the CDC](http://www.cdc.gov/ncidod/diseases/hepatitis/slideset/refugee/index.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2-3

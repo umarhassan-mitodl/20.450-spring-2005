@@ -2,6 +2,8 @@
 content_type: page
 description: Assignments section contains the students presentations and the relevant
   readings for the topics covered.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

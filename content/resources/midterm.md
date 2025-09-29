@@ -5,6 +5,8 @@ description: This resource contains 5 set of questions based on Dendritic cells,
 file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/482f2a2546d9c350a917a81e2d34ea27_midterm.pdf
 file_size: 15692
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

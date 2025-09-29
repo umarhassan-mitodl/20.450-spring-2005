@@ -2,6 +2,8 @@
 content_type: page
 description: Lecture Notes section contains the files for the topics covered for the
   course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
