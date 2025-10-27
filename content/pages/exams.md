@@ -2,8 +2,6 @@
 content_type: page
 description: Exams section contains the questions and solutions files for midterm
   and final exams.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

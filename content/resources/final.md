@@ -5,8 +5,6 @@ description: This resource contains 5 set of questions based on Helicobacter hep
 file: /courses/20-450-molecular-and-cellular-pathophysiology-be-450-spring-2005/db9116811025044bcaf8d3353905df54_final.pdf
 file_size: 25721
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
